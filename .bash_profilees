@@ -1,0 +1,2 @@
+export EMAIL_USER="correo@gmail.com"
+export EMAIL_PASS="contrasenya"
