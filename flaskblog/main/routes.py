@@ -21,7 +21,7 @@ posts = [
 ]
 '''
 
-
+#Se mostrara por inicio esta "/"
 @main.route("/")
 @main.route("/home")
 def home():
